@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="41" viewBox="0 0 34 41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Locked" class="cls-1" d="M908,1524h-3v-4a11,11,0,0,0-22,0v4h-3a3,3,0,0,0-3,3v20a3,3,0,0,0,3,3h28a3,3,0,0,0,3-3v-20A3,3,0,0,0,908,1524Zm-22-4a8,8,0,0,1,16,0v4H886v-4Zm22,27H880v-20h28v20Zm-13.5-5a4.5,4.5,0,1,0-4.5-4.5A4.506,4.506,0,0,0,894.5,1542Zm0-6a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,894.5,1536Z" transform="translate(-877 -1509)"/>
+</svg>
